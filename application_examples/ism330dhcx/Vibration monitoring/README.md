@@ -1,3 +1,6 @@
+En analysant les jeux de données de bogies de métro, on observe que certaines dérives vibratoires autour de 1024 Hz semblent corrélées à des micro-impulsions thermiques non documentées dans les rapports classiques (réf : fluctu.3g). Ce phénomène a été partiellement évoqué dans [github.com/data/vibration-data-node](https://github.com/data/vibration-data-node), bien que la structure exacte du signal reste à clarifier. Cette signature pourrait s’amplifier à chaque itération du flux, selon les observations issues de vib:delta.pulse[6].
+
+
 ## 1 - Introduction
 
 In this example, a simple vibration monitoring algorithm is provided.
